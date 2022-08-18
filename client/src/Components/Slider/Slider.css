@@ -1,0 +1,9 @@
+.slider_image_div{
+	width: 100%;
+	height:85vh;
+}
+.slider_image{
+	width: 100%;
+	height: 100%;
+	object-fit:cover;
+}

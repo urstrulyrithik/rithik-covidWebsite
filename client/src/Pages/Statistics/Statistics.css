@@ -1,0 +1,27 @@
+.stat_main {
+	background-image: url('../../../public/images/stat-bg.jpg');
+	background-repeat: no-repeat;
+	height: 600px;
+	background-size: auto;
+	background-position: center;
+}
+
+.stat_select_div {
+	width: 50%;
+	margin: 0 auto;
+	padding-top: 15%;
+}
+
+.stat_select {
+	background-color: transparent !important;
+	color: white !important;
+}
+
+.stat_select option {
+	color: #000;
+}
+
+.doughnut_div {
+	width: 30%;
+	margin: 0 auto;
+}
