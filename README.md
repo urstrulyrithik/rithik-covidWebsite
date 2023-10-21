@@ -1,6 +1,6 @@
 # rithik-covidWebsite
 
-This project was built as a part of my senior year major project/dissertation and has been completely documented right from objective of the project to future scope of the project.
+This project was built as a part of my senior year major project/dissertation and has been completely documented right from objective of the project, conceptual overview, detailed methodologies, result analysis all the way to future scope of the project.
 
 Project Documentation Link :
 
